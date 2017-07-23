@@ -10,12 +10,12 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="sass">
   /* Override Bulma theme defaults */
-  $primary: #4c4c6e;
+  $primary: #4c4c6e
   
 
-  $size-1: 3.5rem;
+  $size-1: 10px
 
   @import "../node_modules/bulma/bulma.sass";
 

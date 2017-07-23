@@ -34,6 +34,7 @@ export default {
 <style scoped>
   .is-tab {
     text-indent: 10px;
+    font-size: 14px;
   }
 
   .is-brand {
@@ -49,7 +50,4 @@ export default {
   margin-bottom: 40px;
 }
 
-.report {
-  font-weight: bold;
-}
 </style>
